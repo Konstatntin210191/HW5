@@ -69,4 +69,4 @@ int[] arr = GetArray(length);
 string array = PrintArray(arr);
 Console.WriteLine(array);
 int summOdd = GetSummFromOddPosition(arr);
-Console.Write($"Количество элементов на нечетных позициях: {summOdd}");
+Console.Write($"Сумма элементов на нечетных позициях: {summOdd}");
